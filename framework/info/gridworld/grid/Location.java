@@ -1,5 +1,5 @@
 /* 
- * AP(r) Computer Science GridWorld Case Study:
+8 * AP(r) Computer Science GridWorld Case Study:
  * Copyright(c) 2002-2006 College Entrance Examination Board 
  * (http://www.collegeboard.com).
  *
